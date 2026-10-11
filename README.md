@@ -53,4 +53,4 @@ PMI, PMP, and PMBOK are registered marks of the Project Management Institute, In
 
 ## Credits
 
-With credit to amarin@innodata.com.
+With credit to ariel.r.marin@gmail.com.
