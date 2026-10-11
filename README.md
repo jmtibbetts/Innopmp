@@ -50,3 +50,7 @@ PMI, PMP, and PMBOK are registered marks of the Project Management Institute, In
 ## Copyright
 
 © 2026 jmtibbetts (LinuxNinja). All rights reserved.
+
+## Credits
+
+With credit to amarin@innodata.com.
